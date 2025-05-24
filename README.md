@@ -12,6 +12,9 @@ STEP 5: Print the result. STEP 6: Stop.
 
 ### Program:
 ```
+#Name:Gowtham IK
+#Reg no:212222090008
+
 def sum_digit(n):
        if n<=0:
             return 0
@@ -41,6 +44,9 @@ STEP 4: Print the result.
 STEP 5: Stop.
 ### Program:
 ```
+#Name:Gowtham IK
+#Reg no:212222090008
+
 def fun(n):
      if (n >0):
           fun(n - 2)
@@ -76,6 +82,9 @@ STEP 5: Print the result.
 STEP 6: Stop.
 ### Program:
 ```
+#Name:Gowtham IK
+#Reg no:212222090008
+
 def series(x,n):
          if n==0:
             return 1
@@ -113,6 +122,9 @@ STEP 7: Stop.
 
 ### Program:
 ```
+#Name:Gowtham IK
+#Reg no:212222090008
+
 def is_palindrome(word):
       if len(word)<1:
             return True
